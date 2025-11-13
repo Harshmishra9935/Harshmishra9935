@@ -50,12 +50,12 @@ hello
       You can use HTML to build:
     </p>
 
-    <ul>
+   <-- <ul>
       <li>Headings and paragraphs</li>
       <li>Links and navigation menus</li>
       <li>Images and multimedia elements</li>
       <li>Tables, forms, and lists</li>
-    </ul>
+    </ul> -->
 
     <p>
       Every great website starts with clean, semantic HTML — the foundation for design and functionality.
@@ -69,20 +69,9 @@ hello
     <h2>🖼️ Image Gallery</h2>
     <p>Here are some beautiful images displayed using plain HTML:</p>
 
-    <figure>
-      <img src="https://th.bing.com/th/id/OIP.YKj7OrGcqWLugJN6YtlGawHaEK?w=331&h=180&c=7&r=0&o=7&cb=ucfimgc2&dpr=1.5&pid=1.7&rm=3" width="400" height="250">
-      <figcaption>Sunset over mountains</figcaption>
-    </figure>
+   
 
-    <figure>
-      <img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee" alt="Forest path" width="400" height="250">
-      <figcaption>A peaceful forest path</figcaption>
-    </figure>
-
-    <figure>
-      <img src="https://images.unsplash.com/photo-1482192596544-9eb780fc7f66" alt="City skyline" width="400" height="250">
-      <figcaption>City skyline at night</figcaption>
-    </figure>
+    
 
     <p>
       Each image has a caption, and the layout is handled entirely by HTML’s <code>&lt;figure&gt;</code> and <code>&lt;figcaption&gt;</code> elements.
