@@ -4,7 +4,7 @@ hello
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Beautiful HTML-Only Webpage</title>
+  <!-- <title>Beautiful HTML-Only Webpage</title> -->
 </head>
 <body>
 
@@ -32,7 +32,7 @@ hello
       Welcome to this example of a large, well-structured webpage created using only HTML.  
       Although there’s no CSS or JavaScript, HTML alone allows us to organize content, insert images, and make it readable and structured.
     </p>
-    <img src="https://images.unsplash.com/photo-1503264116251-35a269479413" alt="Beautiful nature" width="800" height="400">
+    <img src="https://th.bing.com/th/id/OIP.fwtcxV1lwwe8LBfvATENrQHaE7?w=278&h=185&c=7&r=0&o=7&cb=ucfimgc2&dpr=1.5&pid=1.7&rm=3" width="800" height="400">
     <p>
       The image above shows the beauty of nature — peaceful, colorful, and inspiring.  
       HTML is the skeleton of every webpage you see on the internet. It defines what each piece of content means.
@@ -70,7 +70,7 @@ hello
     <p>Here are some beautiful images displayed using plain HTML:</p>
 
     <figure>
-      <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb" alt="Sunset over mountains" width="400" height="250">
+      <img src="https://th.bing.com/th/id/OIP.YKj7OrGcqWLugJN6YtlGawHaEK?w=331&h=180&c=7&r=0&o=7&cb=ucfimgc2&dpr=1.5&pid=1.7&rm=3" width="400" height="250">
       <figcaption>Sunset over mountains</figcaption>
     </figure>
 
