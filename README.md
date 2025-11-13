@@ -3,8 +3,8 @@
 
 **Harshmishra9935/Harshmishra9935** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<!DOCTYPE html>
 
+<html>
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
